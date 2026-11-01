@@ -20,7 +20,3 @@ EOF
 Based on [kilo](https://github.com/antirez/kilo) by Salvatore Sanfilippo (antirez).
 Built by following the [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) tutorial.
 
-## Credits
-
-Based on [kilo](https://github.com/antirez/kilo) by Salvatore Sanfilippo (antirez).
-Built by following the [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) tutorial.
